@@ -2,8 +2,8 @@
 	path = .registry
 	url = https://github.com/statsrhian/statsrhian.r-universe.dev
 	branch = HEAD
-[submodule "datasaurus"]
-	path = datasaurus
+[submodule "datasauRus"]
+	path = datasauRus
 	url = https://github.com/jumpingrivers/datasaurus
 [submodule "levelup"]
 	path = levelup
